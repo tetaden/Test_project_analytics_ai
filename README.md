@@ -1,2 +1,2 @@
-# Test_project_analytics_ai
+# Test project analytics AI
 Тестовое задание на аналитика AI  в проект
